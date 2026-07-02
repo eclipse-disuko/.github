@@ -1,16 +1,15 @@
 # Security Policy
-
 This Eclipse Foundation Project adheres to the [Eclipse Foundation Vulnerability Reporting Policy](https://www.eclipse.org/security/policy/).
 
 ## How To Report a Vulnerability
 
 If you think you have found a vulnerability in this repository, please report it to us through coordinated disclosure.
 
-**Please do not report security vulnerabilities through public issues, discussions, or change requests.**
+**Please do not report security vulnerabilities through public issues, discussions, or pull requests.**
 
-Instead, report it using one of the following ways:
+Instead, report it by:
 
-* Create a [confidential issue](https://gitlab.eclipse.org/security/vulnerability-reports/-/issues/new?issuable_template=new_vulnerability) in the Eclipse Foundation Vulnerability Reporting Tracker
+* Creating a [confidential issue](https://gitlab.eclipse.org/security/vulnerability-reports/-/issues/new?issuable_template=new_vulnerability) in the Eclipse Foundation Vulnerability Reporting Tracker
 
 You can find more information about reporting and disclosure at the [Eclipse Foundation Security page](https://www.eclipse.org/security/).
 
@@ -27,10 +26,3 @@ Please include as much of the information listed below as you can to help us bet
 * Proof-of-concept or exploit code (if possible)
 
 This information will help us triage your report more quickly.
-
-## Supported Versions
-
-There is currently no official release version of Eclipse Disuko.
-
-Security updates are applied to the HEAD of the `main` branch.
-
